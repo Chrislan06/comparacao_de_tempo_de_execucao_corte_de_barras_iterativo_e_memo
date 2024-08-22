@@ -1,2 +1,1 @@
-# comparacao_de_tempo_de_execucao_corte_de_barras_iterativo_e_memo
-# comparacao_de_tempo_de_execucao_corte_de_barras_iterativo_e_memo
+![alt text](image.png)
