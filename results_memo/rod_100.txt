@@ -1,0 +1,60 @@
+=====================================
+Tamanho da barra: 10
+Lucro máximo: 359
+Tempo de execução: 8088 ns
+Cortes: 1, 9
+=====================================
+=====================================
+Tamanho da barra: 20
+Lucro máximo: 848
+Tempo de execução: 21908 ns
+Cortes: 20
+=====================================
+=====================================
+Tamanho da barra: 30
+Lucro máximo: 1475
+Tempo de execução: 39891 ns
+Cortes: 30
+=====================================
+=====================================
+Tamanho da barra: 40
+Lucro máximo: 1970
+Tempo de execução: 68458 ns
+Cortes: 40
+=====================================
+=====================================
+Tamanho da barra: 50
+Lucro máximo: 2488
+Tempo de execução: 106897 ns
+Cortes: 1, 49
+=====================================
+=====================================
+Tamanho da barra: 60
+Lucro máximo: 2995
+Tempo de execução: 152929 ns
+Cortes: 60
+=====================================
+=====================================
+Tamanho da barra: 70
+Lucro máximo: 3625
+Tempo de execução: 202296 ns
+Cortes: 70
+=====================================
+=====================================
+Tamanho da barra: 80
+Lucro máximo: 4069
+Tempo de execução: 272367 ns
+Cortes: 7, 73
+=====================================
+=====================================
+Tamanho da barra: 90
+Lucro máximo: 4544
+Tempo de execução: 342311 ns
+Cortes: 17, 73
+=====================================
+=====================================
+Tamanho da barra: 100
+Lucro máximo: 5150
+Tempo de execução: 410224 ns
+Cortes: 27, 73
+=====================================
