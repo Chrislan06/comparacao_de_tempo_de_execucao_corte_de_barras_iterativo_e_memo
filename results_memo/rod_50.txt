@@ -1,60 +1,60 @@
 =====================================
 Tamanho da barra: 5
-Lucro máximo: 205
-Tempo de execução: 4839 ns
-Cortes: 1, 1, 1, 1, 1
+Lucro máximo: 178
+Tempo de execução: 5336 ns
+Cortes: 5
 =====================================
 =====================================
 Tamanho da barra: 10
-Lucro máximo: 410
-Tempo de execução: 7314 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 438
+Tempo de execução: 9548 ns
+Cortes: 10
 =====================================
 =====================================
 Tamanho da barra: 15
-Lucro máximo: 615
-Tempo de execução: 13225 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 775
+Tempo de execução: 12642 ns
+Cortes: 15
 =====================================
 =====================================
 Tamanho da barra: 20
-Lucro máximo: 820
-Tempo de execução: 20461 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 1050
+Tempo de execução: 19429 ns
+Cortes: 20
 =====================================
 =====================================
 Tamanho da barra: 25
-Lucro máximo: 1025
-Tempo de execução: 29306 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 1292
+Tempo de execução: 28430 ns
+Cortes: 25
 =====================================
 =====================================
 Tamanho da barra: 30
-Lucro máximo: 1230
-Tempo de execução: 40668 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 1572
+Tempo de execução: 38500 ns
+Cortes: 12, 18
 =====================================
 =====================================
 Tamanho da barra: 35
-Lucro máximo: 1435
-Tempo de execução: 55696 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 1905
+Tempo de execução: 54627 ns
+Cortes: 17, 18
 =====================================
 =====================================
 Tamanho da barra: 40
-Lucro máximo: 1640
-Tempo de execução: 69979 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 2123
+Tempo de execução: 68467 ns
+Cortes: 3, 18, 19
 =====================================
 =====================================
 Tamanho da barra: 45
-Lucro máximo: 1845
-Tempo de execução: 90629 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 2370
+Tempo de execução: 89406 ns
+Cortes: 17, 28
 =====================================
 =====================================
 Tamanho da barra: 50
-Lucro máximo: 2050
-Tempo de execução: 109319 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Lucro máximo: 2705
+Tempo de execução: 107406 ns
+Cortes: 16, 16, 18
 =====================================

@@ -39,7 +39,7 @@ def run_experiments(size, num_experiments):
     interval = int(size / num_experiments)
     inicial_size = interval
     # Geração de preços aleatórios
-    prices = generate_random_prices(size=size, min=inicial_size ,max=size)
+    prices = generate_random_prices(size=size)
     lengths = [] # Vetor para pegar o tamanho de barras testados
     for rod_size in range(inicial_size, size+1, interval):
         lengths.append(rod_size)
