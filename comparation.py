@@ -26,7 +26,7 @@ def save_results_to_file(filename, size, max_profit, cuts, execution_time):
 # Função para gerar vetores de preços aleatórios
 def generate_random_prices(size, min=1, max=100):
     prices = [0] * size
-    prices[0] = random.randint(min, max)
+    prices[0] = random.randint(1, max)
     for i in  range(1, size):
         prices[i] = prices[i-1] + random.randint(min, max)
     return prices
@@ -35,11 +35,11 @@ def generate_random_prices(size, min=1, max=100):
 def run_experiments(size, num_experiments):
     memoized_times = []
     iterative_times = []
-    # Geração de preços aleatórios
-    prices = generate_random_prices(size=size, max=size)
     # Tamanho inicial de corte de barra e intervalos para cada corte
     interval = int(size / num_experiments)
     inicial_size = interval
+    # Geração de preços aleatórios
+    prices = generate_random_prices(size=size, min=inicial_size ,max=size)
     lengths = [] # Vetor para pegar o tamanho de barras testados
     for rod_size in range(inicial_size, size+1, interval):
         lengths.append(rod_size)
@@ -70,6 +70,10 @@ sys.setrecursionlimit((sizes[n-1]**2))
 
 # Executar os experimentos
 for size in sizes:
+    with open(f'results_memo/rod_{size}.txt', 'w') as file:
+        pass
+    with open(f'results_iter/rod_{size}.txt', 'w') as file:
+        pass
     lengths, memoized_times, iterative_times = run_experiments(size, num_experiments)
     # Plota os resultados
     plt.plot(lengths, memoized_times, label='Recursiva com Memoização')

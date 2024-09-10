@@ -1,120 +1,60 @@
 =====================================
 Tamanho da barra: 1
-Lucro máximo: 5
-Tempo de execução: 2072 ns
+Lucro máximo: 6
+Tempo de execução: 1272 ns
 Cortes: 1
 =====================================
 =====================================
 Tamanho da barra: 2
-Lucro máximo: 10
-Tempo de execução: 1813 ns
+Lucro máximo: 12
+Tempo de execução: 1806 ns
 Cortes: 1, 1
 =====================================
 =====================================
 Tamanho da barra: 3
-Lucro máximo: 16
-Tempo de execução: 1617 ns
+Lucro máximo: 19
+Tempo de execução: 1726 ns
 Cortes: 3
 =====================================
 =====================================
 Tamanho da barra: 4
-Lucro máximo: 21
-Tempo de execução: 1621 ns
-Cortes: 4
+Lucro máximo: 25
+Tempo de execução: 1873 ns
+Cortes: 1, 3
 =====================================
 =====================================
 Tamanho da barra: 5
-Lucro máximo: 26
-Tempo de execução: 1936 ns
-Cortes: 1, 4
+Lucro máximo: 31
+Tempo de execução: 2109 ns
+Cortes: 1, 1, 3
 =====================================
 =====================================
 Tamanho da barra: 6
-Lucro máximo: 32
-Tempo de execução: 2284 ns
+Lucro máximo: 38
+Tempo de execução: 2330 ns
 Cortes: 3, 3
 =====================================
 =====================================
 Tamanho da barra: 7
-Lucro máximo: 37
-Tempo de execução: 3073 ns
+Lucro máximo: 44
+Tempo de execução: 2492 ns
 Cortes: 1, 3, 3
 =====================================
 =====================================
 Tamanho da barra: 8
-Lucro máximo: 42
-Tempo de execução: 3238 ns
+Lucro máximo: 50
+Tempo de execução: 2926 ns
 Cortes: 1, 1, 3, 3
 =====================================
 =====================================
 Tamanho da barra: 9
-Lucro máximo: 48
-Tempo de execução: 3295 ns
+Lucro máximo: 57
+Tempo de execução: 3094 ns
 Cortes: 3, 3, 3
 =====================================
 =====================================
 Tamanho da barra: 10
-Lucro máximo: 53
-Tempo de execução: 4280 ns
-Cortes: 1, 3, 3, 3
-=====================================
-=====================================
-Tamanho da barra: 1
-Lucro máximo: 9
-Tempo de execução: 3525 ns
-Cortes: 1
-=====================================
-=====================================
-Tamanho da barra: 2
-Lucro máximo: 18
-Tempo de execução: 4134 ns
-Cortes: 1, 1
-=====================================
-=====================================
-Tamanho da barra: 3
-Lucro máximo: 27
-Tempo de execução: 5486 ns
-Cortes: 1, 1, 1
-=====================================
-=====================================
-Tamanho da barra: 4
-Lucro máximo: 36
-Tempo de execução: 4969 ns
-Cortes: 1, 1, 1, 1
-=====================================
-=====================================
-Tamanho da barra: 5
-Lucro máximo: 45
-Tempo de execução: 2682 ns
-Cortes: 1, 1, 1, 1, 1
-=====================================
-=====================================
-Tamanho da barra: 6
-Lucro máximo: 54
-Tempo de execução: 2856 ns
-Cortes: 1, 1, 1, 1, 1, 1
-=====================================
-=====================================
-Tamanho da barra: 7
 Lucro máximo: 63
-Tempo de execução: 3033 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1
-=====================================
-=====================================
-Tamanho da barra: 8
-Lucro máximo: 72
-Tempo de execução: 3383 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1
-=====================================
-=====================================
-Tamanho da barra: 9
-Lucro máximo: 81
-Tempo de execução: 4061 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1
-=====================================
-=====================================
-Tamanho da barra: 10
-Lucro máximo: 90
-Tempo de execução: 4698 ns
-Cortes: 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Tempo de execução: 3978 ns
+Cortes: 1, 3, 3, 3
 =====================================
