@@ -1,60 +1,60 @@
 =====================================
 Tamanho da barra: 5
-Lucro máximo: 178
-Tempo de execução: 5336 ns
-Cortes: 5
+Lucro máximo: 175
+Tempo médio de execução: 3326.9 ns
+Cortes: 1, 1, 1, 1, 1
 =====================================
 =====================================
 Tamanho da barra: 10
-Lucro máximo: 438
-Tempo de execução: 9548 ns
-Cortes: 10
+Lucro máximo: 367
+Tempo médio de execução: 6725.1 ns
+Cortes: 1, 1, 8
 =====================================
 =====================================
 Tamanho da barra: 15
-Lucro máximo: 775
-Tempo de execução: 12642 ns
+Lucro máximo: 561
+Tempo médio de execução: 11301.8 ns
 Cortes: 15
 =====================================
 =====================================
 Tamanho da barra: 20
-Lucro máximo: 1050
-Tempo de execução: 19429 ns
+Lucro máximo: 819
+Tempo médio de execução: 18885.4 ns
 Cortes: 20
 =====================================
 =====================================
 Tamanho da barra: 25
-Lucro máximo: 1292
-Tempo de execução: 28430 ns
-Cortes: 25
+Lucro máximo: 1093
+Tempo médio de execução: 31347.6 ns
+Cortes: 1, 24
 =====================================
 =====================================
 Tamanho da barra: 30
-Lucro máximo: 1572
-Tempo de execução: 38500 ns
-Cortes: 12, 18
+Lucro máximo: 1380
+Tempo médio de execução: 40869.6 ns
+Cortes: 30
 =====================================
 =====================================
 Tamanho da barra: 35
-Lucro máximo: 1905
-Tempo de execução: 54627 ns
-Cortes: 17, 18
+Lucro máximo: 1950
+Tempo médio de execução: 54676.3 ns
+Cortes: 35
 =====================================
 =====================================
 Tamanho da barra: 40
-Lucro máximo: 2123
-Tempo de execução: 68467 ns
-Cortes: 3, 18, 19
+Lucro máximo: 2170
+Tempo médio de execução: 70895.4 ns
+Cortes: 1, 1, 38
 =====================================
 =====================================
 Tamanho da barra: 45
-Lucro máximo: 2370
-Tempo de execução: 89406 ns
-Cortes: 17, 28
+Lucro máximo: 2923
+Tempo médio de execução: 86086.0 ns
+Cortes: 45
 =====================================
 =====================================
 Tamanho da barra: 50
-Lucro máximo: 2705
-Tempo de execução: 107406 ns
-Cortes: 16, 16, 18
+Lucro máximo: 4183
+Tempo médio de execução: 106959.2 ns
+Cortes: 50
 =====================================

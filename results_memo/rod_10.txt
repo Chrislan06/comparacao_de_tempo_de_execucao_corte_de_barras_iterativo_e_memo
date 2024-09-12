@@ -1,60 +1,60 @@
 =====================================
 Tamanho da barra: 1
-Lucro máximo: 15
-Tempo de execução: 1816 ns
+Lucro máximo: 24
+Tempo médio de execução: 627.3 ns
 Cortes: 1
 =====================================
 =====================================
 Tamanho da barra: 2
-Lucro máximo: 103
-Tempo de execução: 1982 ns
-Cortes: 2
+Lucro máximo: 48
+Tempo médio de execução: 1236.5 ns
+Cortes: 1, 1
 =====================================
 =====================================
 Tamanho da barra: 3
-Lucro máximo: 177
-Tempo de execução: 1929 ns
-Cortes: 3
+Lucro máximo: 72
+Tempo médio de execução: 1193.8 ns
+Cortes: 1, 1, 1
 =====================================
 =====================================
 Tamanho da barra: 4
-Lucro máximo: 263
-Tempo de execução: 2516 ns
+Lucro máximo: 99
+Tempo médio de execução: 1470.6 ns
 Cortes: 4
 =====================================
 =====================================
 Tamanho da barra: 5
-Lucro máximo: 314
-Tempo de execução: 2515 ns
+Lucro máximo: 128
+Tempo médio de execução: 2028.9 ns
 Cortes: 5
 =====================================
 =====================================
 Tamanho da barra: 6
-Lucro máximo: 370
-Tempo de execução: 2885 ns
-Cortes: 6
+Lucro máximo: 152
+Tempo médio de execução: 46645.6 ns
+Cortes: 1, 5
 =====================================
 =====================================
 Tamanho da barra: 7
-Lucro máximo: 467
-Tempo de execução: 3326 ns
+Lucro máximo: 240
+Tempo médio de execução: 3115.0 ns
 Cortes: 7
 =====================================
 =====================================
 Tamanho da barra: 8
-Lucro máximo: 526
-Tempo de execução: 4727 ns
-Cortes: 4, 4
+Lucro máximo: 320
+Tempo médio de execução: 4736.7 ns
+Cortes: 8
 =====================================
 =====================================
 Tamanho da barra: 9
-Lucro máximo: 577
-Tempo de execução: 5134 ns
-Cortes: 4, 5
+Lucro máximo: 384
+Tempo médio de execução: 4769.1 ns
+Cortes: 9
 =====================================
 =====================================
 Tamanho da barra: 10
-Lucro máximo: 644
-Tempo de execução: 6136 ns
-Cortes: 3, 7
+Lucro máximo: 637
+Tempo médio de execução: 5723.0 ns
+Cortes: 10
 =====================================

@@ -1,60 +1,60 @@
 =====================================
 Tamanho da barra: 2
-Lucro máximo: 128
-Tempo de execução: 3001 ns
-Cortes: 2
+Lucro máximo: 64
+Tempo médio de execução: 1066.6 ns
+Cortes: 1, 1
 =====================================
 =====================================
 Tamanho da barra: 4
-Lucro máximo: 256
-Tempo de execução: 3023 ns
-Cortes: 2, 2
+Lucro máximo: 130
+Tempo médio de execução: 1543.2 ns
+Cortes: 4
 =====================================
 =====================================
 Tamanho da barra: 6
-Lucro máximo: 384
-Tempo de execução: 3731 ns
-Cortes: 2, 2, 2
+Lucro máximo: 194
+Tempo médio de execução: 2689.2 ns
+Cortes: 1, 1, 4
 =====================================
 =====================================
 Tamanho da barra: 8
-Lucro máximo: 512
-Tempo de execução: 4998 ns
-Cortes: 2, 2, 2, 2
+Lucro máximo: 260
+Tempo médio de execução: 4013.1 ns
+Cortes: 4, 4
 =====================================
 =====================================
 Tamanho da barra: 10
-Lucro máximo: 640
-Tempo de execução: 6518 ns
-Cortes: 2, 2, 2, 2, 2
+Lucro máximo: 336
+Tempo médio de execução: 51284.5 ns
+Cortes: 10
 =====================================
 =====================================
 Tamanho da barra: 12
-Lucro máximo: 768
-Tempo de execução: 8373 ns
-Cortes: 2, 2, 2, 2, 2, 2
+Lucro máximo: 420
+Tempo médio de execução: 7617.9 ns
+Cortes: 12
 =====================================
 =====================================
 Tamanho da barra: 14
-Lucro máximo: 896
-Tempo de execução: 10394 ns
-Cortes: 2, 2, 2, 2, 2, 2, 2
+Lucro máximo: 630
+Tempo médio de execução: 10163.3 ns
+Cortes: 14
 =====================================
 =====================================
 Tamanho da barra: 16
-Lucro máximo: 1024
-Tempo de execução: 13629 ns
-Cortes: 2, 2, 2, 2, 2, 2, 2, 2
+Lucro máximo: 936
+Tempo médio de execução: 12401.9 ns
+Cortes: 16
 =====================================
 =====================================
 Tamanho da barra: 18
-Lucro máximo: 1152
-Tempo de execução: 16260 ns
-Cortes: 2, 2, 2, 2, 2, 2, 2, 2, 2
+Lucro máximo: 1273
+Tempo médio de execução: 15165.3 ns
+Cortes: 18
 =====================================
 =====================================
 Tamanho da barra: 20
-Lucro máximo: 1280
-Tempo de execução: 19546 ns
-Cortes: 2, 2, 2, 2, 2, 2, 2, 2, 2, 2
+Lucro máximo: 1800
+Tempo médio de execução: 19017.5 ns
+Cortes: 20
 =====================================
